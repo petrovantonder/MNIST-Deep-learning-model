@@ -2,6 +2,7 @@
 This model was built for the MNIST version 3.0.1 data set found on the tensorflow dataset.
 
 Output was as follow:
+
 Epoch 1/10
 360/360 - 8s - loss: 0.3723 - accuracy: 0.8965 - val_loss: 0.1769 - val_accuracy: 
 0.9468
@@ -32,6 +33,7 @@ Epoch 7/10
 
 Epoch 8/10
 0.9860
+
 Epoch 9/10
 360/360 - 7s - loss: 0.0335 - accuracy: 0.9901 - val_loss: 0.0466 - val_accuracy: 
 0.9848
